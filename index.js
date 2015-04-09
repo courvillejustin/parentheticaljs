@@ -25,7 +25,3 @@ var pMap = (function(){
     return pDict;
   };
 })();
-
-
-  var testString = "((Sometimes (when I nest them (my parentheticals) too much (like this (and this))) they get confusing.))";
-  console.log(pMap(testString));
