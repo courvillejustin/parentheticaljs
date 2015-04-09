@@ -1,4 +1,4 @@
-# parentheticaljs
+# parenthetical.js
 
 Inspired by an interviewcake problem.
 
